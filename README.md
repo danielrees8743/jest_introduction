@@ -27,3 +27,5 @@ test('sumTwoNums function adds two numbers', () => {
 - [ ] Import the `multiplyNums` function with `const { multiplyNums } = require('../math')`
 - [ ] Write **unit test** to check that `multiplyNums` function accurately multiplies 2 numbers together
 - [ ] Write **unit test** to check that `multiplyNums` function accurately multiplies 3 numbers together
+- [ ] Implement the `it()` method to make your tests read like a sentence
+- [ ] Implement the `describe()` method to group your two test cases for the `multiplyNums` function
