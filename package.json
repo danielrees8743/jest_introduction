@@ -1,0 +1,22 @@
+{
+  "name": "jest_introduction",
+  "version": "1.0.0",
+  "description": "- [ ] Set up a new **npm package** with default values with the command `npm init -y` - [ ] Install **Jest** with the command `npm i --save-dev jest` - [ ] Update the **test script** in `package.json` to          ```         \"scripts\": {             \"test\": \"jest\"         }         ``` - [ ] Run **Jest tests** with `npm test` (run will fail with *No tests found, exiting with code 1* until tests are written)",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrees8743/jest_introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielrees8743/jest_introduction/issues"
+  },
+  "homepage": "https://github.com/danielrees8743/jest_introduction#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
